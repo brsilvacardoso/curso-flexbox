@@ -7,3 +7,5 @@ Durante as unidades foram verificadas:
 - Entendimento das diversas propriedades do flexbox e como usá-las.
 - Como as propriedades do flexbox substituem float, inline e inline-block.
 - Criação de uma página responsiva com flexbox.
+
+Link do projeto: https://brsilvacardoso.github.io/curso-flexbox/
